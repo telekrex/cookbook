@@ -1,0 +1,6 @@
+pandoc -s -o "Read me!.html" README.md --metadata title="Program Name"
+pandoc -s -o "License.html" LICENSE.md --metadata title="Program Name License"
+copy "%~dp0\Read me!.html" "%~dp0\Release\Windows"
+copy "%~dp0\Read me!.html" "%~dp0\Release\Linux"
+copy "%~dp0\License.html" "%~dp0\Release\Windows"
+copy "%~dp0\License.html" "%~dp0\Release\Linux"
