@@ -1,0 +1,2 @@
+- pull from Obsidian notes
+- pull from 'gobelet of fire' document
