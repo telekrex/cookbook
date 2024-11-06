@@ -22,3 +22,5 @@ Avoid dogmatic beliefs.
 Understand dependencies or try to avoid them.
 
 Don't invent fictional users. - John Carmack, paraphrased.
+
+Avoid using a mutable state wherever possible.
