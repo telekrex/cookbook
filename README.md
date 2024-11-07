@@ -1,5 +1,5 @@
 # cookbook
-> I keep a few functions/macros I happen to use often in this repository. but also, programming related wisdom I've collected from a wide variety of sources. this was sortof intended as a private resource, but I'm leaving it public so that I share any benefits it has. So I will not really be taking any issues or pull requests, but feel free to steal the wisdom or functions.
+> I keep a few functions/macros I happen to use often in this repository. but also, programming related wisdom I've collected from a wide variety of sources. this was sortof intended as a private resource, but I'm leaving it public so that I share any benefits it has. feel free to copy.
 
 "People publish scores of symphonies, they don't just listen to symphonies" - Donald Knuth, paraphrased. From: https://youtu.be/bTkXg2LZIMQ
 
