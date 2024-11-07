@@ -1,2 +1,3 @@
-- pull from Obsidian notes
+- pull from Obsidian/knowledge notes
 - pull from 'gobelet of fire' document
+- add robotics/dc components knowledge
